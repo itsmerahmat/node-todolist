@@ -1,4 +1,4 @@
-# nodetodolist
+# node-todolist
 
 Project NodeJS todolist pakai Database
 
